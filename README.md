@@ -1,6 +1,6 @@
 - 👋 Olá!!!!
-- Sou Cintia Carvalho
-- Estudante Técnico em Desenvolvimento de Sistemas
+- :grin::grin:Sou Cintia Carvalho
+- :writing_hand: :brain:Estudante Técnico em Desenvolvimento de Sistemas
 
 
 
