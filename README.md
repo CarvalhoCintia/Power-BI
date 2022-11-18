@@ -1,15 +1,11 @@
--<h1> 👋 Olá!!!!
+<h1> 👋 Olá!!!!
 - :grin::grin:Sou Cintia Carvalho
 - :writing_hand: :brain:Estudante Técnico em Desenvolvimento de Sistemas</h1>
 
 
 
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
-
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
-
 <p align="center">
-    <a href="https://github.com/Cintia" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <img src="https://raw.githubusercontent.com/CarvalhoCintia/CarvalhoCintia/main/tenor%20(1).gif">
 
 <div align="center">
   <a href="https://github.com/CarvalhoCintia">
