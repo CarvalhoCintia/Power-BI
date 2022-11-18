@@ -1,6 +1,8 @@
-<h1> 👋 Olá!!!!
-- :grin::grin:Sou Cintia Carvalho
-- :writing_hand: :brain:Estudante Técnico em Desenvolvimento de Sistemas</h1>
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2> 👋 Olá!!!!<br>
+:grin::grin:Sou Cintia Carvalho<br>
+:writing_hand: :brain:Estudante Técnico em Desenvolvimento de Sistemas</h2>
 
 
 
