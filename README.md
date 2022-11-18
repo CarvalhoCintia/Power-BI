@@ -1,13 +1,21 @@
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<h2> 👋 Olá!!!!<br>
-:grin::grin:Sou Cintia Carvalho<br>
-:writing_hand: :brain:Estudante Técnico em Desenvolvimento de Sistemas</h2>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!!!,+👋;Sou+Cintia+Carvalho+....;&center=true&size=30">
+  </a>
+</h1>
+
+
+:writing_hand: <h2>Estudante Técnico em Desenvolvimento de Sistemas</h2>
 
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/CarvalhoCintia/CarvalhoCintia/main/tenor%20(1).gif" height="500em">
+
+<p align="left"> 
+ <img src="https://i.pinimg.com/originals/5a/9e/49/5a9e493ebec738ad8ed01b8f6c1b6c0f.gif"height="300em">
 
 <div align="center">
   <a href="https://github.com/CarvalhoCintia">
