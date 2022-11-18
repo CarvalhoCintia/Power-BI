@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/CarvalhoCintia/CarvalhoCintia/main/tenor%20(1).gif">
+    <img src="https://raw.githubusercontent.com/CarvalhoCintia/CarvalhoCintia/main/tenor%20(1).gif" height="500em">
 
 <div align="center">
   <a href="https://github.com/CarvalhoCintia">
