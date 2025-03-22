@@ -9,7 +9,6 @@
 </h1>
 
 
-:writing_hand: <h2>Estudante Técnico em Desenvolvimento de Sistemas</h2>
 
 
 
